@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=3dd951&fontSize=40)
 
-### Hi!! 😃 Welcome to my Homepage I'm a begineer developer
+### Hi!! 😃 Welcome to my Homepage I'm a beginner developer
 
 ## 사용 언어
 <div>
