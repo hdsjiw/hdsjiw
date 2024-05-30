@@ -45,4 +45,3 @@ Here are some ideas to get you started:
 </div>
 
 <br/><br/><br/>
-![Hdsjjw's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdsjiw&show_icons=true&theme=radical)
