@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=react&logoColor=white&style=plastic">
 </div>
 
-## 💙 Back-end 💙
+## 💙 Back-end Studying💙
 <div>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=react&logoColor=white&style=plastic">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=react&logoColor=white&style=plastic">
