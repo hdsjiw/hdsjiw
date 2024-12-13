@@ -20,22 +20,30 @@ Here are some ideas to get you started:
 ## 사용 언어
 <div>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=python&logoColor=white&style=plastic">
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white&style=plastic">
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&style=plastic">
 </div>
 
-## 🔴 Front-end 🔴
+## 🔴 Front-end
 <div>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=python&logoColor=white&style=plastic">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&style=plastic">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=react&logoColor=white&style=plastic">
 </div>
 
-## 💙 Back-end Studying💙
+## 💙 겨울 방학 Studying
 <div>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=react&logoColor=white&style=plastic">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=react&logoColor=white&style=plastic">
 </div>
+<br><br>
+
+ - 백엔드 Spring 찍먹하기
+ - React 심화
+   - typeScript
+   - Next js
+   - Redux
+   - GraphQL
 
 ## 👍 Others...
 <div>
@@ -43,4 +51,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white&style=plastic">
 </div>
 
+## 📞 Contact
+  E-mail : [bisha0821@gmail.com]
+
+## 🙋🙋‍♂ 또 다른 자아
+- Original : [aijiw](https://github.com/aijiw)
+- Gaming : [gamingjiw](https://github.com/gamingjiw)
+
+<br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjwo0821)](https://solved.ac/jjwo0821/)
 <br/><br/><br/>
+
