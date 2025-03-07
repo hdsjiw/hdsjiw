@@ -21,21 +21,17 @@
 </div>
 
 ## Currently Learning
-<div>
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=react&logoColor=white&style=plastic"><br><br>
- 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&style=plastic"> <br>
    - TypeScript &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&style=plastic">
    - Next js &nbsp; <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&style=plastic">
    - Redux &nbsp; <img src="https://img.shields.io/badge/Redux-765ABC?style=for-the-badge&logo=redux&logoColor=white&style=plastic">
    - GraphQL &nbsp; <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&style=plastic">
-</div>
+   - Spring Security  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white&style=plastic">
 
 ## 👍 Others...
 <div>
- <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white&style=plastic">
- <img src="https://img.shields.io/badge/Zira-0052CC?style=for-the-badge&logo=jira&logoColor=white&style=plastic">
- <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/Zira-0052CC?style=for-the-badge&logo=jira&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&style=plastic">
 </div>
 
