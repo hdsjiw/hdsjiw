@@ -24,6 +24,7 @@ I’m a full-stack oriented product builder who <strong>transforms imagination i
 </div>
 <br>
 
-<img width="1202" height="720" alt="astro-home" src="https://github.com/user-attachments/assets/7d769a73-445c-46ab-b066-9a19301cdbdc" />
-
+<a href="https://astro-knowledge.com" target="_blank">
+  <img width="1202" height="720" alt="astro-home" src="https://github.com/user-attachments/assets/7d769a73-445c-46ab-b066-9a19301cdbdc" />
+</a>
 
