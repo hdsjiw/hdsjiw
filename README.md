@@ -1,5 +1,13 @@
-Hi, welcome! 😊<br/>
-I’m a full-stack oriented product builder who <strong>transforms imagination into reality</strong>.
+<h3>
+   Hi, welcome! 😊
+</h3>
+<p>
+I’m a full-stack oriented product builder who 
+  <strong>transforms imagination into reality</strong>.
+</p>
+<a href="https://astro-knowledge.com" target="_blank">
+  <img width="1202" height="720" alt="astro-home" src="https://github.com/user-attachments/assets/7d769a73-445c-46ab-b066-9a19301cdbdc" />
+</a>
 
 ### I use
 <div>
@@ -23,8 +31,3 @@ I’m a full-stack oriented product builder who <strong>transforms imagination i
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&style=plastic">
 </div>
 <br>
-
-<a href="https://astro-knowledge.com" target="_blank">
-  <img width="1202" height="720" alt="astro-home" src="https://github.com/user-attachments/assets/7d769a73-445c-46ab-b066-9a19301cdbdc" />
-</a>
-
